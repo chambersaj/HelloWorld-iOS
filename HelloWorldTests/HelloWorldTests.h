@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 Anthony Chambers. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface HelloWorldTests : SenTestCase
+@interface HelloWorldTests : XCTestCase
 
 @end
